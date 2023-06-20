@@ -1,25 +1,34 @@
 # understanding_deep_generative_models_with_generalized_empirical_likelihood
 
-TODO(b/281649102): Add a description for your new project, explain what is
-being released here, etc... Additional, the following sections are normally
-expected for all releases. Feel free to add additional sections if appropriate
-for your project.
+This repository includes an implementation of the generalized empirical
+likelihood metric proposed in:
+S. Ravuri, M. Rey, S. Mohamed, M. Deisenroth, "Understanding Deep Generative
+Models with Generalized Empirical Likelihoods." Computer Vision and Pattern
+Recognition, 2023.
+
+The metric is implemented in the "Generalized_Empirical_Likelihood" colab.
+The colab also includes some sample use cases.
 
 ## Installation
 
-Write instructions for how the user should install your code. The instructions
-should ideally be valid when copy-pasted. You can combine this with the Usage
-section if there's no separate installation step.
+The colab in the repo includes all the code needed for installation.
 
 ## Usage
 
-Write example usage of your code. The instructions should ideally be valid when
-copy-pasted, and will be used by your technical reviewer to verify that your
-package functions correctly.
+Please see the colab for usage.
 
 ## Citing this work
 
-Add citation details here, usually a pastable BibTeX snippet.
+If you use this work, please cite the following:
+
+@InProceedings{Ravuri_2023_CVPR,
+    author    = {Ravuri, Suman and Rey, M\'elanie and Mohamed, Shakir and Deisenroth, Marc Peter},
+    title     = {Understanding Deep Generative Models With Generalized Empirical Likelihoods},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {24395-24405}
+}
 
 ## License and disclaimer
 
