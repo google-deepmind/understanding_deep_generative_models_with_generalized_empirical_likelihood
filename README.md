@@ -7,7 +7,7 @@ Models with Generalized Empirical Likelihoods." Computer Vision and Pattern
 Recognition, 2023.
 
 The metric is implemented in the "Generalized_Empirical_Likelihood" colab.
-The colab also includes some sample use cases, which you can find here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/understanding_deep_generative_models_with_generalized_empirical_likelihood/blob/main/python/Generalized_Empirical_Likelihood.ipynb)
+The colab also includes some sample use cases, which you can find here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/understanding_deep_generative_models_with_generalized_empirical_likelihood/blob/main/Generalized_Empirical_Likelihood.ipynb)
 
 ## Citing this work
 
